@@ -1,9 +1,7 @@
 <h1>Hello</h1>
 <h2> I am Ocueye2 </h2>
 Programer, Animator, Arch User, Self-Host.
-
-
-
+<br>
 
 Why use the cloud when you can host it yourself
 
